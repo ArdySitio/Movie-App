@@ -1,0 +1,5 @@
+export const Types = {
+  SET_MOVIES: "SET_MOVIES",
+  SELECTED_MOVIE: "SELECTED_MOVIE",
+  SET_GENRE: "SET_GENRE",
+};
